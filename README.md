@@ -8,3 +8,5 @@ Our system analyzes user behavior and book attributes to suggest books that user
 3. K-nearest neighbor: Finds books similar to a given book or user preferences.
 ## Example
 Here's a screenshot of our recommendation system.
+
+![Project Screenshot ] (https://github.com/apurvakoshti/Book-Recommendation-System/blob/main/img/1.png)
