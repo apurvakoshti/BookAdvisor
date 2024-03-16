@@ -9,4 +9,6 @@ Our system analyzes user behavior and book attributes to suggest books that user
 ## Example
 Here's a screenshot of our recommendation system.
 
-![Project Screenshot ] (https://example.com/https://github.com/apurvakoshti/Book-Recommendation-System/blob/main/img/1.png)(https://github.com/apurvakoshti/Book-Recommendation-System/blob/main/img/1.png)
+(img/1.png)
+(img/2.png)
+(img/3.png)
