@@ -9,6 +9,6 @@ Our system analyzes user behavior and book attributes to suggest books that user
 ## Example
 Here's a screenshot of our recommendation system.
 
-(img/1.png)
-(img/2.png)
-(img/3.png)
+![Screenshot 1](img/1.png)
+![Screenshot 2](img/2.png)
+![Screenshot 3](img/3.png)
